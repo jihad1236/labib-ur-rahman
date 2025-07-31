@@ -14,3 +14,16 @@ I'm a passionate Android App Developer with a strong foundation in building mobi
 
 ### 🤝 Let’s Collaborate
 - I'm open to working on exciting Android projects and learning from the developer community. Feel free to connect with me here on GitHub!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=firadfd&label=Profile%20views&color=0e75b6&style=flat" alt="labib-ur-rahman" />
+  <img src="https://img.shields.io/github/followers/firadfd?label=Follow&style=social" alt="labib-ur-rahman" />
+</p>
+
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=labib-ur-rahman&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labib-ur-rahman&layout=compact&theme=radical" alt="Top Languages" width="225"/>
+  <img src="https://streak-stats.demolab.com/?user=labib-ur-rahman&theme=radical" alt="GitHub Streak" width="310"/>
+</p>
