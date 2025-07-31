@@ -1,9 +1,9 @@
 ### 👋 Hi, I'm Labib
-I'm a passionate Android App Developer with a strong foundation in building mobile applications using modern technologies. I love exploring new tools and improving my skills to deliver efficient, scalable, and user-friendly applications.
+I'm a passionate Mobile App Developer with a strong foundation in building mobile applications using modern technologies. I love exploring new tools and improving my skills to deliver efficient, scalable, and user-friendly applications.
 
 ### 🛠️ Skills & Technologies
-- <b>Languages:</b> Kotlin, Java, PHP (Basics)
-- <b>Android Development:</b> Android SDK, MVVM architecture, Jetpack Compose, Coroutine, Room Database
+- <b>Languages:</b> Dart, Kotlin, Java, PHP (Basics)
+- <b>App Development:</b> Flutter, Android SDK, MVVM architecture, Jetpack Compose, Coroutine, Room Database
 - <b>Backend & APIs:</b> Firebase, Retrofit, REST API, JSON, SQL
 - <b>Software Principles:</b> Object-Oriented Programming (OOP)
 - <b>Version Control:</b> Git, GitHub
