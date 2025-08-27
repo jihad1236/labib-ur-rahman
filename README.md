@@ -1,9 +1,7 @@
-### 👋 Hi, I'm Labib
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=👋+Hi,+I'm+Labib)
 I'm a passionate Mobile App Developer with a strong foundation in building mobile applications using modern technologies. I love exploring new tools and improving my skills to deliver efficient, scalable, and user-friendly applications.
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=hey+there!)](https://git.io/typing-svg)
-
-### 🛠️ Skills & Technologies
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=🛠️+Skills+&+Technologies)
 - <b>Languages:</b> Dart, Kotlin, Java, PHP (Basics)
 - <b>App Development:</b> Flutter, Android SDK, MVVM architecture, Jetpack Compose, Coroutine, Room Database
 - <b>Backend & APIs:</b> Firebase, Retrofit, REST API, JSON, SQL
@@ -11,10 +9,10 @@ I'm a passionate Mobile App Developer with a strong foundation in building mobil
 - <b>Version Control:</b> Git, GitHub
 - <b>Frontend & Web:</b> XML, HTML, CSS, Bootstrap, WordPress
 
-### 🌱 What I’m Learning
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=🌱+What+I’m+Learning)
 - Continuously exploring advanced Android development techniques, libraries and best practices to improve app performance and architecture.
 
-### 🤝 Let’s Collaborate
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=🤝+Let’s+Collaborate)
 - I'm open to working on exciting Android projects and learning from the developer community. Feel free to connect with me here on GitHub!
 
 <p align="center">
@@ -23,7 +21,9 @@ I'm a passionate Mobile App Developer with a strong foundation in building mobil
 </p>
 
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&center=true&width=435&lines=📊+GitHub+Stats" alt="Typing SVG" />
+</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=labib-ur-rahman&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labib-ur-rahman&layout=compact&theme=radical" alt="Top Languages" width="225"/>
