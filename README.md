@@ -29,3 +29,13 @@ I'm a passionate Mobile App Developer with a strong foundation in building mobil
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labib-ur-rahman&layout=compact&theme=radical" alt="Top Languages" width="225"/>
   <img src="https://streak-stats.demolab.com/?user=labib-ur-rahman&theme=radical" alt="GitHub Streak" width="310"/>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=labib-ur-rahman&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
