@@ -52,8 +52,3 @@ I'm a passionate Mobile App Developer with a strong foundation in building mobil
 </p>
 
 ---
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Yousuf-Hossain-Siam/Yousuf-Hossain-Siam/output/snake.svg" alt="Snake animation" /> 
