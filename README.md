@@ -52,3 +52,13 @@ I'm a passionate Mobile App Developer with a strong foundation in building mobil
 </p>
 
 ---
+
+##
+
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labib-ur-rahman/labib-ur-rahman/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/labib-ur-rahman/labib-ur-rahman/output/snake.svg">
+</picture>
+<br>
+<br>
